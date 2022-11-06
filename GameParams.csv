@@ -1,0 +1,7 @@
+---,ParameterName,Value,Description
+MaxHealth,MaxHealth,100,The maximum amount of health points the player can have
+TrapDamage,TrapDamage,10,The amount of damage dealt by traps per 0.05 seconds of continuous collision
+HealMagnitude,HealMagnitude,100,The amount of health points restored by a medkit
+DamageShieldDuration,DamageShieldDuration,10,Duration of the Damage Shield buff
+TrapSlowdownDuration,TrapSlowdownDuration,10,Duration of the Trap Slowdown buff
+CharacterSlowdownDuration,CharacterSlowdownDuration,15,Duration of the Character Slowdown debuff
